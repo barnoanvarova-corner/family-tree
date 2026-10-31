@@ -1,3 +1,4 @@
+```mermaid``
 graph TD
     %% Прапрадедушка и прапрабабушка (родители отца дедушки)
     A1["Абдужабборхон<br/>1896–1984"]
@@ -74,4 +75,4 @@ graph TD
     ME["Я<br/>Анварова Барнохон<br/>2008"]
     mE --> ME
 
-    style ME fill:#ffe9a8,stroke:#d4a017,stroke-width:3px
+    style ME fill:```#ffe9a8,stroke:#d4a017,stroke-width:3px
